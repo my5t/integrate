@@ -1,6 +1,6 @@
 // integrate. simple social networking integration for your site.
 // facebook like count for pages.
-// licensed under Creative Commons Attribution-ShareAlike 4.0 International
+// licensed under MIT License.
 // free for personal and commercial use.
 // official site: http://integrate.cf
 // source code: http://github.com/my5t/integrate
