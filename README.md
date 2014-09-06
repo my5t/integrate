@@ -1,5 +1,4 @@
-integrate.
-simple social networking integration for your website.
+integrate. simple social networking integration for your website.
 =========
 
 I came up with the idea for integrate while coding my personal website.
